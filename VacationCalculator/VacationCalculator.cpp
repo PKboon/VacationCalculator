@@ -1,5 +1,5 @@
+This program is written by Pikulkaew Boonpeng.
 #include <iostream>
-#include <string>
 using namespace std;
 
 void print(int, string, string, string);
