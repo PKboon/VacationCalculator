@@ -1,5 +1,5 @@
 # VacationCalculator
-(I found the problem on the Internet)
+(I found the problem on the Internet)\
 Calculates number of vacation weeks from the given year, begin month, end month, and first day of the year.
 (Xcode)
 
